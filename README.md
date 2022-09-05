@@ -1,8 +1,8 @@
-# SCISSORS
+# Scissors
 
 The scissors a type of wearable / wieldable in webaverse. 
 
-- [SCISSORS](#scissors)
+- [Scissors](#scissors)
 - [Description](#description)
 - [Base .scn configuration](#base-scn-configuration)
 - [Model](#model)
