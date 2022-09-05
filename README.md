@@ -15,7 +15,7 @@ The scissors a type of wearable / wieldable in webaverse.
 ![](https://i.imgur.com/mq2yoEX.png)
 
 # Base .scn configuration
-You can copy & paste it into your .scn file to get the scissors working
+You can copy & paste it into your .scn file to get the base scissors model working
 ```json
     {
       "position": [
